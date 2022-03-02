@@ -8441,3 +8441,143 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:04:21.686
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:04:22.324
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:04:22.326
+!MESSAGE buffering callback sts4.classpath.riPubKLP RangeQueries false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:04:23.396
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:04:25.650
+!MESSAGE executing callback sts4.classpath.riPubKLP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:06:46.855
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:06:46.856
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:06:46.857
+!MESSAGE buffering callback sts4.classpath.riPubKLP Matrix false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:06:46.858
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:06:46.937
+!MESSAGE executing callback sts4.classpath.riPubKLP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:09:15.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:09:15.201
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:09:15.202
+!MESSAGE buffering callback sts4.classpath.riPubKLP SinglyLinkedList false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:09:15.203
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:09:15.253
+!MESSAGE executing callback sts4.classpath.riPubKLP SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-02 13:24:45.698
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:25:45.320
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:25:45.322
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:25:45.323
+!MESSAGE buffering callback sts4.classpath.riPubKLP CircularLinkedList false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:25:45.484
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:25:46.041
+!MESSAGE executing callback sts4.classpath.riPubKLP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:27:40.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:27:40.623
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:27:40.727
+!MESSAGE buffering callback sts4.classpath.riPubKLP DoublyLinkedList false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:27:40.740
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:27:40.752
+!MESSAGE executing callback sts4.classpath.riPubKLP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:32:22.996
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:32:23.040
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:32:23.041
+!MESSAGE buffering callback sts4.classpath.riPubKLP Stack false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:32:23.041
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:32:23.050
+!MESSAGE executing callback sts4.classpath.riPubKLP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:36:42.435
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:36:42.540
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:36:42.625
+!MESSAGE buffering callback sts4.classpath.riPubKLP Queue false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:36:42.626
+!MESSAGE executing callback sts4.classpath.riPubKLP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-02 13:36:44.661
+!MESSAGE executing callback sts4.classpath.riPubKLP FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-03-02 13:36:44.663
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-02 13:38:04.460
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)

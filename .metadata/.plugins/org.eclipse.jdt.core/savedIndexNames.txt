@@ -1,7 +1,6 @@
 INDEX VERSION 1.131+C:\SimpliLearn Java Phase1 projects\.metadata\.plugins\org.eclipse.jdt.core
 3923539333.index
 933325821.index
-3669058978.index
 714526579.index
 1898347133.index
 3151383430.index
